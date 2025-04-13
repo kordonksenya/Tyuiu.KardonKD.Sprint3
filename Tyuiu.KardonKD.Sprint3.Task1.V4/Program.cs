@@ -13,7 +13,7 @@ namespace Tyuiu.KardonKD.Sprint3.Task1.V4
             Console.WriteLine("* Тема: Оператор цикла while                                            *");
             Console.WriteLine("* Задание #1                                                            *");
             Console.WriteLine("* Варинат #4                                                            *");
-            Console.WriteLine("* Выполнил: кордон Ксентя Дмитриевна | ИСТНб-24-1                            *");
+            Console.WriteLine("* Выполнила: кордон Ксентя Дмитриевна | ИСТНб-24-1                      *");
             Console.WriteLine("*************************************************************************");
             Console.WriteLine("*************************************************************************");
             Console.WriteLine("* ИССХОДНЫЕ ДАННЫЕ:                                                     *");
